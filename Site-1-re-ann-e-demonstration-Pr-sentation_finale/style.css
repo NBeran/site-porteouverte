@@ -224,11 +224,11 @@ img {
 }
 
 .droite:hover {
-    transform: scale(0.95) rotate(1deg);
+    transform: scale(0.98) rotate(0.5deg);
 }
 
 .gauche:hover {
-    transform: scale(0.95) rotate(-1deg);
+    transform: scale(0.98) rotate(-0.5deg);
 }
 
 .gauche,
