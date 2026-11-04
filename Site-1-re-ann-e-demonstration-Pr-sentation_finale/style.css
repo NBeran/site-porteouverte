@@ -370,6 +370,7 @@ h1 {
     padding: 40px 100px;
     margin: 20px 50px;
     box-shadow: 0 4px 5px rgba(0.2, 0.2, 0.2, 0.2);
+    background-color: rgb(241, 244, 255);
 }
 li{
     list-style-type: none;
